@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ka2sato
+- 👋 Hi, I’m @kazz24s
 - 👀 I’m interested in geospatial information.
 - 🌱 A physical geographer, geospatial analyst mainly using QGIS
 - 💞️ 
